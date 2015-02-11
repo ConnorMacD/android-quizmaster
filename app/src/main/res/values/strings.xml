@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz Master</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz">Quiz Master</string>
+    <string name="welcome">Welcome to Quiz Master!</string>
+    <string name="blank_answer">Missing_Answer</string>
+    <string name="get_name">Why don\'t we start with your name?\nEnter it below to get started.</string>
+
+
+</resources>

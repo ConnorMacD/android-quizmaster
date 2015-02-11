@@ -1,0 +1,1 @@
+Lollipop;Linux;Dalvik;SDK;Honeycomb;manifest;Gesture - Swipe Down;Ice Cream Sandwich;Favourites;Themes;Widget;Gingerbread;User;Gesture - Swipe;Gesture - Double Touch;Gesture - Touch;Sandbox;Intent;Start;app/assets;Emulator

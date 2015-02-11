@@ -1,0 +1,10 @@
+What is Android version 4.0 called?;Ice Cream Sandwich
+Android's kernel is based on this technology:;Linux
+This tray stays at the bottom of your home screen and shows the most important shortcuts.;Favourites
+These are Android's mechanism for applying a consistent style to an app or activity.;Themes
+The library where components such as Button and TextView are defined.;Widget
+What is Android Version 2.0 called?;Gingerbread
+If there are multiple components that can perform an action described by the intent, then this selects selects which one to use.;User
+This gesture scrolls overflowing content, or navigates between views in the same hierarchy. Action = press, move, lift;Gesture - Swipe
+This gesture zooms into content. Also used as a secondary gesture for text selection. Action = Two touches in quick succession;Gesture - Double Touch
+Android applications run in this isolated area of the operating system that does not have access to the rest of the system's resources, unless access permissions are granted by the user at installation time.;Sandbox
